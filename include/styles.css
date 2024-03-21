@@ -1,0 +1,225 @@
+.please{
+    text-align: center;
+}
+
+
+.class{
+    background-color: black;
+}
+
+
+.f_para{
+    text-align: center;
+}
+
+
+
+
+img:hover {
+    background-color: yellow;
+  }
+
+
+
+
+#rooms_session{
+    margin-bottom: 10px;
+}
+
+.footer{
+    background-color: #96E9C6;
+    margin-top: 90px;
+    margin-bottom: auto;
+
+    
+    
+}
+
+
+
+.rooms{
+    margin-top: 90px;
+    text-align: center;
+    background-color: #D4E7C5;
+}
+.navigation{
+    border-radius: 80px;
+
+}
+.card{
+    margin-right: 29px;
+    margin-left: 20px;
+}
+
+.book{
+    text-align: center;
+}
+
+
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); 
+  }
+
+
+  .line-container {
+    max-width: 400px; /* Set the maximum width of the container */
+    margin: 0 auto; /* Center the container */
+}
+
+/* Custom styles for the horizontal line */
+.line-container hr {
+    border: 0;
+    height: 4px;
+    background: repeating-linear-gradient(45deg, #3498db, #3498db 10px, #e74c3c 10px, #e74c3c 20px);
+    margin: 20px 0;
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Hover state styles */
+.image-container:hover img {
+    transform: scale(1.1);
+}
+
+.executive_session{
+    background-image: url("../images/2021-09-15.jpeg");
+    background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+
+}
+
+.standard_session{
+    background-image: url("../images/2021-09-15.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  
+
+}
+.normal_session{
+
+    background-image: url("../images/2021-09-15.jpeg");
+    background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+
+}
+
+.room_Ani{
+    margin-top: 550px;
+}
+
+
+.restaurant_Ani{
+    margin-top: 1100px;
+    position: absolute;
+    background: lightgray;
+    height: 60px;
+    width: 80%;
+    margin-left: 150px;
+    margin-right: 30px;
+    top: 50px;
+}
+
+.restaurant_menu{
+    margin-top: 1534px;
+    position: absolute;
+    background: lightgray;
+    height: 60px;
+    width: 80%;
+    margin-left: 150px;
+    margin-right: 30px;
+    top: 50px;
+}
+
+.restaurant_div{
+    margin-top: 1210px;
+}
+
+.whole_restaurant{
+    background-image: url("../images/pexels-ylanite-koppens-796620.jpg");
+    background-size: 100%, 100%;
+
+
+}
+
+.carousel_move{
+    margin-top: 500px;
+    position: absolute;
+  background: lightgray;
+  height: 60px;  
+  width: 80%;
+  margin-left: 150px;
+  margin-right: 30px;
+  top: 50px;
+}
+
+@media(max-width: 2796px){
+    .carousel_move {
+        margin-left: 30px;
+    }
+
+    .food_img{
+        height: 300px;
+    }
+
+    .restaurant_Ani{
+        /*padding-top: 200px;*/
+        margin-left: 75px;
+        margin-right: 750px;
+        /*margin-top: 0.5rem;*/
+
+    }
+    .things{
+        margin-top: 100px;
+    }
+
+    .restaurant_div{
+        margin-bottom: 500px;
+    }
+}
+
+
+
+.bi{
+    margin: 20px 10px;
+    padding: 7% 15%;
+}
+
+#conference{
+    background-color: rgba(0, 140, 186, 0.5);
+    font-family: 'Noto Serif', serif;
+
+}
+
+.restaurant_session{
+    background-image: url("../images/DSC06821.jpeg");
+    background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+
+
+
+.restaurant_color{
+    color: #E6BAA3;
+}
+
+
+/* google font */
+{
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
